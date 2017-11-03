@@ -6,3 +6,4 @@
 ![image](https://github.com/superzhang2013/DragRecyclerView/blob/master/images-folder/Screenshot_2017-11-02-22-29-12-235_%E7%9B%B8%E5%86%8C.png)
 ![image](https://github.com/superzhang2013/DragRecyclerView/blob/master/images-folder/Screenshot_2017-11-02-22-28-52-636_%E7%9B%B8%E5%86%8C.png)
 ![image](https://github.com/superzhang2013/DragRecyclerView/blob/master/images-folder/Screenshot_2017-11-02-22-29-07-856_%E7%9B%B8%E5%86%8C.png)
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0">
