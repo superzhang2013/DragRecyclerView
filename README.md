@@ -6,4 +6,4 @@
 ![image](https://github.com/superzhang2013/DragRecyclerView/blob/master/images-folder/Screenshot_2017-11-02-22-29-12-235_%E7%9B%B8%E5%86%8C.png)
 ![image](https://github.com/superzhang2013/DragRecyclerView/blob/master/images-folder/Screenshot_2017-11-02-22-28-52-636_%E7%9B%B8%E5%86%8C.png)
 ![image](https://github.com/superzhang2013/DragRecyclerView/blob/master/images-folder/Screenshot_2017-11-02-22-29-07-856_%E7%9B%B8%E5%86%8C.png)
-![video](<iframe width="560" height="315" src="http://tv.sohu.com/upload/static/share/share_play.html#90268916_9365222_0_9001_0" frameborder="0" allowfullscreen></iframe>)
+![image](https://github.com/superzhang2013/DragRecyclerView/blob/master/images-folder/1509675158438.gif)
